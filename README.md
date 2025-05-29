@@ -7,5 +7,5 @@ pnpm install
 ```
 
 ```bash
-pnpm start
+pnpm run dev
 ```
